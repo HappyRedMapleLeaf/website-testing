@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/website-testing/static/css/main.073c9b0a.css",
-    "main.js": "/website-testing/static/js/main.b2d4c8ba.js",
-    "static/js/787.98878395.chunk.js": "/website-testing/static/js/787.98878395.chunk.js",
-    "static/media/logo.svg": "/website-testing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/website-testing/static/js/main.dbf1b92a.js",
+    "static/media/schoolPicture.jpg": "/website-testing/static/media/schoolPicture.d766119b42b42241ba6a.jpg",
+    "static/media/titleBar.png": "/website-testing/static/media/titleBar.0923ce7a63fcf757d43d.png",
+    "static/media/BCSCLogo.png": "/website-testing/static/media/BCSCLogo.99d38df0de11ddf74d32.png",
+    "static/media/javaLogo.png": "/website-testing/static/media/javaLogo.bcb16fe728136e150e35.png",
+    "static/media/cppLogo.png": "/website-testing/static/media/cppLogo.c0a0d2fd9fd3519dbdce.png",
     "index.html": "/website-testing/index.html",
-    "main.073c9b0a.css.map": "/website-testing/static/css/main.073c9b0a.css.map",
-    "main.b2d4c8ba.js.map": "/website-testing/static/js/main.b2d4c8ba.js.map",
-    "787.98878395.chunk.js.map": "/website-testing/static/js/787.98878395.chunk.js.map"
+    "main.dbf1b92a.js.map": "/website-testing/static/js/main.dbf1b92a.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b2d4c8ba.js"
+    "static/js/main.dbf1b92a.js"
   ]
 }
